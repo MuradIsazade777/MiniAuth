@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [QSA,L]
+
+# MIME type for JSON responses
+AddType application/json .json
+
+# Security
+Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Headers "Authorization, Content-Type"

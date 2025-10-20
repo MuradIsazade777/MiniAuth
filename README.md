@@ -63,8 +63,6 @@ Test with curl or Postman.
 This project is licensed under the MIT License. See LICENSE for details.
 
 ✨ Author
-Murad Isazade Backend Architect & Full-Stack Developer 
-GitHub: @MuradIsazade777
-Twitter: @Isazde_Murad
+Murad Isazade Backend Architect & Full-Stack Developer
 
 🌟 Star this repo if you find it useful!

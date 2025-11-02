@@ -7,7 +7,7 @@
  
 MiniAuth is a minimalist, secure backend authentication system built with pure PHP and SQLite. It uses JWT tokens to protect API endpoints and offers a clean, modular structure ideal for small projects, prototypes, or educational use. 
  
-## 🚀 Features
+## 🚀 Features 
 
 - ✅ Register & Login endpoints
 - 🔐 JWT token generation and validation

@@ -12,7 +12,7 @@ MiniAuth is a minimalist, secure backend authentication system built with pure P
 - ✅ Register & Login endpoints
 - 🔐 JWT token generation and validation
 - 🗂️ SQLite-based user storage
-- ⚡ Fast, lightweight, no frameworks
+- ⚡ Fast, lightweight, no frameworks 
 - 📁 Modular file structure (6–7 files, ~70 lines of code)
 
 ---

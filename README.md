@@ -6,7 +6,7 @@
 ![SQLite](https://img.shields.io/badge/storage-SQLite-lightgrey)
 
 MiniAuth is a minimalist, secure backend authentication system built with pure PHP and SQLite. It uses JWT tokens to protect API endpoints and offers a clean, modular structure ideal for small projects, prototypes, or educational use.
-
+ 
 ## 🚀 Features
 
 - ✅ Register & Login endpoints

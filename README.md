@@ -26,7 +26,7 @@ MiniAuth is a minimalist, secure backend authentication system built with pure P
 ---
 
 ## 🧪 API Endpoints
-
+ 
 ### 🔐 Register
 ```http
 POST /register

@@ -1,4 +1,4 @@
-# 🔐 MiniAuth – Lightweight PHP JWT Authentication API
+# 🔐 MiniAuth – Lightweight PHP JWT Authentication API 
    
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Built with PHP](https://img.shields.io/badge/built%20with-PHP%208-orange) 

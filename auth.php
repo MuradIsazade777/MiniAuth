@@ -1,4 +1,4 @@
-<?php
+<?php 
 require 'db.php'; 
 require 'jwt.php';
 $config = require 'config.php';
